@@ -1,0 +1,16 @@
+[error] C:\Users\Lloyd Low\Desktop\QAStuffs\Scalatest\project\src\main\scala\FlatSpec.scala:3:12: object scalatest is not a member of package org
+[error] import org.scalatest.flatspec.AnyFlatSpec
+[error]            ^
+[error] C:\Users\Lloyd Low\Desktop\QAStuffs\Scalatest\project\src\main\scala\FlatSpec.scala:5:25: not found: type AnyFlatSpec
+[error] class FlatSpec  extends AnyFlatSpec {
+[error]                         ^
+[error] C:\Users\Lloyd Low\Desktop\QAStuffs\Scalatest\project\src\main\scala\FlatSpec.scala:7:18: value should is not a member of String
+[error]   "An empty Set" should "have size 0" in {
+[error]                  ^
+[error] C:\Users\Lloyd Low\Desktop\QAStuffs\Scalatest\project\src\main\scala\FlatSpec.scala:11:3: not found: value it
+[error]   it should "produce NoSuchElementException when head is invoked" in {
+[error]   ^
+[error] C:\Users\Lloyd Low\Desktop\QAStuffs\Scalatest\project\src\main\scala\FlatSpec.scala:12:5: not found: value assertThrows
+[error]     assertThrows[NoSuchElementException] {
+[error]     ^
+[error] 5 errors found

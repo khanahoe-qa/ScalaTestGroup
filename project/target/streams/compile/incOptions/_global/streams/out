@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 [debug] Created transactional ClassFileManager with tempDir = E:\QA-Software\Scala\scala-testing\project\target\scala-2.12\sbt-1.0\classes.bak
 [debug] Removing the temporary directory used for backing up class files: E:\QA-Software\Scala\scala-testing\project\target\scala-2.12\sbt-1.0\classes.bak
+=======
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\Lloyd Low\Desktop\QAStuffs\Scalatest\project\target\scala-2.12\sbt-1.0\classes.bak
+[debug] Removing the temporary directory used for backing up class files: C:\Users\Lloyd Low\Desktop\QAStuffs\Scalatest\project\target\scala-2.12\sbt-1.0\classes.bak
+>>>>>>> lloyd.flatspec.branch

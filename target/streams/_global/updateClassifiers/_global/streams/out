@@ -1,3 +1,8 @@
 [debug] not up to date. inChanged = true, force = false
+<<<<<<< HEAD
 [debug] Updating ProjectRef(uri("file:/E:/QA-Software/Scala/scala-testing/"), "scala-testing")...
 [debug] Done updating ProjectRef(uri("file:/E:/QA-Software/Scala/scala-testing/"), "scala-testing")
+=======
+[debug] Updating ProjectRef(uri("file:/C:/Users/Lloyd%20Low/Desktop/QAStuffs/Scalatest/"), "scalatest")...
+[debug] Done updating ProjectRef(uri("file:/C:/Users/Lloyd%20Low/Desktop/QAStuffs/Scalatest/"), "scalatest")
+>>>>>>> lloyd.flatspec.branch

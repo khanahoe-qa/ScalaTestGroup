@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [debug] downloaded https://repo1.maven.org/maven2/org/reactivemongo/play2-reactivemongo_2.13/0.20.3-play27/play2-reactivemongo_2.13-0.20.3-play27.pom
 [debug] downloaded https://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-akkastream_2.13/0.20.3/reactivemongo-akkastream_2.13-0.20.3.pom
 [debug] downloaded https://repo1.maven.org/maven2/org/reactivemongo/reactivemongo_2.13/0.20.3/reactivemongo_2.13-0.20.3.pom
@@ -608,3 +609,27 @@
 [debug] downloaded https://repo1.maven.org/maven2/org/reactivemongo/reactivemongo_2.13/0.20.3/reactivemongo_2.13-0.20.3-javadoc.jar
 [debug] downloaded https://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.5.9/httpclient-4.5.9-javadoc.jar
 [debug] downloaded https://repo1.maven.org/maven2/junit/junit/4.12/junit-4.12-sources.jar
+=======
+[debug] downloaded https://repo1.maven.org/maven2/org/scalatestplus/mockito-3-4_2.13/3.2.2.0/mockito-3-4_2.13-3.2.2.0.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/mockito/mockito-core/3.4.6/mockito-core-3.4.6.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/objenesis/objenesis/2.6/objenesis-2.6.pom
+[debug] downloaded https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy/1.10.13/byte-buddy-1.10.13.pom
+[debug] downloaded https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy-agent/1.10.13/byte-buddy-agent-1.10.13.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/objenesis/objenesis-parent/2.6/objenesis-parent-2.6.pom
+[debug] downloaded https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy-parent/1.10.13/byte-buddy-parent-1.10.13.pom
+[debug] downloaded https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy-agent/1.10.13/byte-buddy-agent-1.10.13.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/scalatestplus/mockito-3-4_2.13/3.2.2.0/mockito-3-4_2.13-3.2.2.0.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/objenesis/objenesis/2.6/objenesis-2.6.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/mockito/mockito-core/3.4.6/mockito-core-3.4.6.jar
+[debug] downloaded https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy/1.10.13/byte-buddy-1.10.13.jar
+[debug] downloaded https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy-agent/1.10.13/byte-buddy-agent-1.10.13-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/objenesis/objenesis/2.6/objenesis-2.6-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/scalatestplus/mockito-3-4_2.13/3.2.2.0/mockito-3-4_2.13-3.2.2.0-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/objenesis/objenesis/2.6/objenesis-2.6-javadoc.jar
+[debug] downloaded https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy-agent/1.10.13/byte-buddy-agent-1.10.13-javadoc.jar
+[debug] downloaded https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy/1.10.13/byte-buddy-1.10.13-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/mockito/mockito-core/3.4.6/mockito-core-3.4.6-javadoc.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/scalatestplus/mockito-3-4_2.13/3.2.2.0/mockito-3-4_2.13-3.2.2.0-javadoc.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/mockito/mockito-core/3.4.6/mockito-core-3.4.6-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy/1.10.13/byte-buddy-1.10.13-javadoc.jar
+>>>>>>> lloyd.flatspec.branch
