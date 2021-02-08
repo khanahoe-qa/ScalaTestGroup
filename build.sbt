@@ -12,5 +12,6 @@ libraryDependencies ++= Seq(
 	"org.scalatestplus.play" %% "scalatestplus-play" % "5.0.0" % Test,
 	"org.mockito" % "mockito-core" % "2.7.22" % Test,
 	"org.reactivemongo" %% "play2-reactivemongo" % "0.20.3-play27",
-	"org.scalatest" %% "scalatest" % "3.0.8" % Test
+	"org.scalatest" %% "scalatest" % "3.0.8" % Test,
+	"org.scalatest" %% "scalatest-funspec" % "3.2.2" % Test
 )
